@@ -19,6 +19,27 @@
 *.tar.gz
 *.rar
 
+#maven
+target
+
+#IJ
+.idea
+*.iml
+
+#eclipse
+.classpath
+.settings
+.project
+.settings/**/*
+.settings/*
+/.settings
+/PdfESignatureAnalyzer/.settings
+/PdfFormExtractor/.settings
+/PdfSignerUtilities/.settings
+
+# Mac OS X
+*.DS_Store
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*

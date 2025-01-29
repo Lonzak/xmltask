@@ -1,0 +1,35 @@
+# $Id: CREDITS,v 1.17 2007/02/14 12:36:10 bagnew Exp $
+
+Thanks to those who have contributed suggestions, comments and fixes.
+
+Jules Gosnell           - jules(_at_)mortbay.com
+Kyle Adams              - kadams(_at_)gfs.com
+George Standing         - georgestanding(_at_)yahoo.com
+Richard Ward            - richard.ward(_at_)jacobsrimell.com
+Guillaume Cote          - cote(_at_)computer.org
+Jean-Yves Sironneau     - jean-yves.sironneau(_at_)sharing.com
+Matthew Inger           - inger(_at_)synygy.com
+Nicola Castelnuovo      - nicola.castelnuovo(_at_)i-bp.banquepopulaire.fr
+Serge Shikov            - sshikov(_at_)microtest.ru
+Jan Materne             - jan.materne(_at_)rzf.fin.nrw.de
+Daniel Ochs             - dan.ochs(_at_)wrycan.com
+Igor Grapp              - igrapp(_at_)vnuemedia.com
+Nils Winkler            - nils(_at_)nilswinkler.com
+Tom Furrer              - tfurrer(_at_)infonic.net
+Nagarajan Murugesan     - nmurugesan(_at_)selectica.com
+Kevin LaVergne          - klavergne(_at_)users.sourceforge.net
+Michael Dodd            - Michael.Dodd(_at_)ingrambook.com
+Juergen Damke           - damke(_at_)de.ibm.com
+Remi Clavier            - remi.clavier(_at_)francetelecom.com
+Pedro Rodrigues         - fantasma_2001(_at_)yahoo.com
+Moritz von Hassselbach  - mvonhasselbach(_at_)ptc.com
+David Karr              - david.karr(_at_)wamu.net
+Ephemeris Lappis        - ephemeris.lappis(_at_)gmail.com
+Bernd Eckenfels         - b.eckenfels(_at_)seeburger.de
+I Wayan Saryada         - wsaryada(_at_)balicamp.com
+Maarten Coene           - maarten_coene(_at_)yahoo.com
+Stacey Murphy           - stacey.murphy(_at_)ericsson.com
+
+Thanks to Dave Megginson (info(_at_)megginson.com) for the use
+of the XMLWriter and DataWriter classes (now somewhat
+modified)
