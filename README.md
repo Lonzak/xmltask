@@ -1,4 +1,4 @@
-# XMLTask - based on OOPS Consultancy Ltd
+# XMLTask - based on OOPS Consultancy XMLTask Project
 
 ## Contents
 - [Introduction](#introduction)
