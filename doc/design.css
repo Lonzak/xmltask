@@ -1,0 +1,118 @@
+.bodyText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	line-height: 15px;
+}
+.bodyTextBold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #214558;
+	line-height: 15px;
+	font-weight: bold;
+}
+.menuText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	line-height: 15px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.quoteText {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 13px;
+	color: #333333;
+	line-height: 15px;
+	text-align: right;
+}
+.smallHeadline {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	font-style: normal;
+	font-weight: bold;
+}
+.mediumHeadline {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.codeText {
+	font-family: "Courier New", Courier, mono;
+	font-size: 11px;
+	color: #666666;
+	line-height: 15px;
+	font-weight: bold;
+}
+.codeUrl {
+	font-family: "Courier New", Courier, mono;
+	font-size: 11px;
+	color: #333333;
+	line-height: 15px;
+}
+.bodyList {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	line-height: normal;
+	clear: left;
+}
+.mixedList {
+	font-size: 11px;
+	color: #333333;
+	line-height: 12px;
+}
+a {
+	color: #000066;
+	text-decoration: underline;
+}
+.menuTextWhite {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	line-height: 15px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.bannerSmall {
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+}
+.bannerMedium {
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+}
+.bannerLarge {
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24pt;
+}
+.bodyBold {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #2D688C;
+	line-height: 15px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.adv {
+	border-width: 1px; 
+	border-style: solid; 
+	border-color: #2d688c; 
+	padding: 5px;
+	margin: 5px;
+}
+pre {
+	font-size: 11px;
+	color: #333333;
+}
